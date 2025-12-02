@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Passionate about building applications and solving problems  
+- 💻 Passionate about building applications, websites and solving problems  
 - 🚀 Constantly learning and leveling up my skills  
 - 🎧 Loves coding with great music  
 - 🛠 Working on POS systems, SQL procedures, VB.NET apps & more  
@@ -23,10 +23,10 @@
 ### 🔧 Technologies & Tools
 
 **Languages:**  
-`Python` • `VB.NET` • `SQL` • `JavaScript`
+`Python` • `VB.NET` • `SQL` • `JavaScript`• `HTML`• `CSS`
 
 **Tools & Platforms:**  
-`GitHub` • `VS Code` • `SQL Server` • `Retailware` • `XPrinter`
+`GitHub` • `VS Code` • `SQL Server`
 
 ---
 
