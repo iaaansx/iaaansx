@@ -3,7 +3,7 @@
   <img src="https://github.com/your-username/your-username/blob/main/your-gif.gif" width="350" />
 </p>
 
-<h1 align="center">Hi there, I'm God Tetzu 👋</h1>
+<h1 align="center">Hi there, I'm Ian Tan 👋</h1>
 
 <p align="center">
   <b>Developer • Programmer • Tech Explorer</b>
