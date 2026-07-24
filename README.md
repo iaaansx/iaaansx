@@ -26,7 +26,7 @@
 `Python` • `VB.NET` • `SQL` • `JavaScript`• `HTML`• `CSS`
 
 **Tools & Platforms:**  
-`GitHub` • `VS Code` • `SQL Server`
+`GitHub` • `VS Code` •  `Visual Basic` • `SQL Server`
 
 ---
 
