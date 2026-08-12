@@ -28,6 +28,8 @@
 **Tools & Platforms:**  
 `GitHub` • `VS Code` •  `Visual Basic` • `SQL Server`
 
+**AI Tools:**  
+`Claude` • `ChatGPT`
 ---
 
 ### 📊 GitHub Stats
